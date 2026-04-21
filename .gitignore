@@ -1,4 +1,7 @@
-.idea
+.idea/
 venv310
 .pytest_cache
-__pycache__
+__pycache__/
+
+pages/__pycache__
+tests/__pycache__
